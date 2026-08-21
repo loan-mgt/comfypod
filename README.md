@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=200 alt="logo Dumb Flyway Validate" src="doc/assets/logo.svg">
+  <img width=200 alt="logo Comfypod" src="doc/assets/logo.svg">
 
   # Comfypod
 

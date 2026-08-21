@@ -1,6 +1,10 @@
-# ComfyUI Video Docker
+<div align="center">
+  <img width=200 alt="logo Dumb Flyway Validate" src="doc/assets/logo.svg">
 
-Docker image for ComfyUI video generation, supporting models such as LTX 2.3, Wan 2.2, and more. Built on RunPod PyTorch.
+  # Comfypod
+
+Docker image for ComfyUI optimized for video generation, supporting models such as Minimax H3, LTX 2.3, Wan 2.2, and more. Built for RunPod
+</div>
 
 ## Quick Start
 
